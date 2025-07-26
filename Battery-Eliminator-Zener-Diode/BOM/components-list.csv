@@ -1,0 +1,10 @@
+S.No.,Component,Specification / Value,Quantity,Purpose
+1,Breadboard,Standard,1,For prototyping the circuit
+2,PCB (Optional),General-purpose,1,For permanent circuit mounting
+3,Transformer,230V to 9-0-9V, 500mA,1,Step down 230V AC to 9V AC
+4,Diode (PN Junction),IN4007,4,Bridge rectifier (AC to DC conversion)
+5,Capacitor,100µF, 25V Electrolytic,1,Filter ripple from DC signal
+6,Zener Diode,5.1V, 0.5W,1,Voltage regulation
+7,Resistor,1k ohm, 0.25W,2,Current limiting and load resistance
+8,Connecting Wires,-,As needed,For connections on breadboard/PCB
+9,Multimeter,-,1,To measure output voltage
